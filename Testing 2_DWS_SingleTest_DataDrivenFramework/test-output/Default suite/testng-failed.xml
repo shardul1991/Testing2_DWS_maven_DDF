@@ -5,6 +5,8 @@
     <classes>
       <class name="com.cjc.dws.test.Tests">
         <methods>
+          <include name="shopcart"/>
+          <include name="addtocart"/>
           <include name="maximize"/>
           <include name="openURL"/>
           <include name="paymentGateway"/>
